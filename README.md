@@ -1,1 +1,1 @@
-> #### Applications/Exercises
+> #### Exercícios/Exercises
