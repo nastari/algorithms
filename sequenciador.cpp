@@ -33,7 +33,8 @@ int main (){
 
                         i++;
 
-                        iteracoes++;
+                        iteracoes++;  // Só haverá 'iteracoes' != 0 se houver um número a esquerda maior que o da direita
+                                      // se essa condição não existe, 'iteracoes' não é acrescida de 0 e while 'sai fora'.
                     } else {
 
                         i++;
