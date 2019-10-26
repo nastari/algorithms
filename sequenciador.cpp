@@ -45,7 +45,7 @@ int main (){
      sizeVector--; // Dica de Desempenho
                    // A cada passagem do 'FOR', o valor "MAIS PESADO" avança para direita e inutiliza
                    // a passagem da análise por todo o vetor, então decrescenta-se um conforme os maiores
-                   // valores vão se alocando a direita.
+                   // valores vão se alocando a direita. E na próxima passagem do 'FOR', ele não precisa ir 'até o fim'.
 
      }
 
