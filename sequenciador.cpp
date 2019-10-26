@@ -8,7 +8,7 @@ using namespace std;
 int main (){
 
 
- int numbers[] = {10,20,30,45,70,35,80,210,100}; // sequence any // sequencia qualquer
+ int numbers[] = {10,56,89,12,250,34,-43,82,3}; // sequence any // sequencia qualquer
  int iteracoes = -1 ;  // must be different from 0 to enter loop
  int sizeVector;
  int i;
