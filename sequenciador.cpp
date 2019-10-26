@@ -2,6 +2,7 @@
 
 using namespace std;
 
+ // algorithm puts any sequence of numbers in order of magnitude regardless of the size of the vector.
  // algoritmo põe em ordem de grandeza qualquer sequência de números independentemente do tamanho do vetor.
 
 int main (){
